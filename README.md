@@ -36,7 +36,7 @@ So, you must invoke: ```https://spring-web-dev.herokuapp.com/test``` to test the
 $ heroku local
 ```
 
-It will serve your application at port 8080.
+It will serve your application at port 5000.
 
 ## Making changes on the project and deploying them to Heroku
 
