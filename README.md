@@ -19,9 +19,6 @@ $ git push heroku master
 $ git push
 ```
 
-```
-
-
 To check out the Heroku logs during the deployment:
 ```sh
 $ heroku logs -t
